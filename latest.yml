@@ -1,8 +1,8 @@
-version: 20261101.1.3
+version: 20261101.1.4
 files:
-  - url: Groundhog-20261101.1.3-win-x64.exe
-    sha512: c97HBrRRku2cfeDWeJHOe17XqB1oAQiWlZVnKuxDrVTIabCDK3PykzyLx0DzhgKK0LHWd+nymnN55aqPh1xDHA==
-    size: 122027971
-path: Groundhog-20261101.1.3-win-x64.exe
-sha512: c97HBrRRku2cfeDWeJHOe17XqB1oAQiWlZVnKuxDrVTIabCDK3PykzyLx0DzhgKK0LHWd+nymnN55aqPh1xDHA==
-releaseDate: '2026-11-01T00:25:26.000Z'
+  - url: Groundhog-20261101.1.4-win-x64.exe
+    sha512: WK023ZUaNblsEpP6Wgnh3NN3KndnuCNXgJBpyzUy1+PqqZoSK9GaTEyJJj9Qk1paoUGVN516IltStyDW6YYN3g==
+    size: 122027912
+path: Groundhog-20261101.1.4-win-x64.exe
+sha512: WK023ZUaNblsEpP6Wgnh3NN3KndnuCNXgJBpyzUy1+PqqZoSK9GaTEyJJj9Qk1paoUGVN516IltStyDW6YYN3g==
+releaseDate: '2026-11-01T10:23:44.031Z'
