@@ -3,26 +3,26 @@
   "projectId": "isalsbury72__Groundhog__issue-1",
   "executionTarget": "groundhog",
   "sourceRepository": "isalsbury72/Groundhog",
-  "sourceCommit": "d8bf7a6d103e6955362b2be60cadf9cca214220e",
-  "artifactContainerCommit": "18b0a814793b805f0e0d8139bbb260fd974ce8c0",
-  "version": "20261103.1.1",
-  "tag": "v20261103.1.1",
+  "sourceCommit": "64e36e444a4ea41c852766faebf4960d72992b01",
+  "artifactContainerCommit": "2c056a32cdf2738162c2fc534f7270eea949bde3",
+  "version": "20261111.1.1",
+  "tag": "v20261111.1.1",
   "files": {
     "installer": {
-      "name": "Groundhog-20261103.1.1-win-x64.exe",
-      "size": 122028723,
-      "sha256": "e08ec60993668dc9da518c0999cb1eba7eb7b30b3e17e170482411b0125565b2",
-      "sha512": "nYdB2pC7h3XQVXf68xDKDikAI+Q2o5+7DUntv8m30QCTsr4nKIR+MNfRJJPpbsIE/IjVLg3Zyn9betqPgye3Zw=="
+      "name": "Groundhog-20261111.1.1-win-x64.exe",
+      "size": 121993801,
+      "sha256": "1d9d756481cd74a0d0c293dbbdebfc2780914b41dccc5c8f5eab919eb01dd969",
+      "sha512": "UPotosMVe3BR4tKirE98apf8WuT+eLKOJFaykQZEjHWmtdmS+JighBuJkTK3trZKAb1YIArVobbTYmK+NRXOhw=="
     },
     "blockmap": {
-      "name": "Groundhog-20261103.1.1-win-x64.exe.blockmap",
-      "size": 128858,
-      "sha256": "b2657d921f267d6ec684d7a92358e1163dcd45e9b6946ca0ce79d0856e77ce0c"
+      "name": "Groundhog-20261111.1.1-win-x64.exe.blockmap",
+      "size": 128984,
+      "sha256": "b9cedb080839e267ad3b8cea9e1067149a161128805264c617efdefe94987d87"
     },
     "latest": {
       "name": "latest.yml",
       "size": 372,
-      "sha256": "2166b16c5b8a035cb143e30a8b0deefdad11094bec83615177acdc16943e3c9c"
+      "sha256": "b2ac9411aec815bf58ec8a31b1c61986d12f98f8f7c2d8cd986134940c0a7310"
     }
   }
 }
