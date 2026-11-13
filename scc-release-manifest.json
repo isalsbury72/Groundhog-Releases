@@ -3,27 +3,38 @@
   "projectId": "isalsbury72__Groundhog__issue-1",
   "executionTarget": "groundhog",
   "sourceRepository": "isalsbury72/Groundhog",
-  "applicationSourceCommit": "c65d92a57c8c3b9a33caa6f6fee8681531795187",
-  "artifactContainerCommit": "9165063d1c57961f5c985be4972d5b24f997f603",
-  "version": "20261112.1.2",
-  "tag": "v20261112.1.2",
-  "artifactPrefix": "Groundhog",
+  "projectLineage": {
+    "publicAncestor": "b47c543127c45d5f73e67443bfd9c2dd1fe11858",
+    "cleanSourceCommit": "0695c694ff10389d5babed4b26a875c92d58fab3",
+    "sourceBranch": "release/groundhog-20261113.1.1-clean"
+  },
+  "sourceCommit": "0695c694ff10389d5babed4b26a875c92d58fab3",
+  "sourceBranch": "release/groundhog-20261113.1.1-clean",
+  "artifactContainerCommit": "005c9e10ede8bbc8a34a35d2b178c82fc42492c7",
+  "manifestBindingCommit": "fd604022dec5f6cad4589efcd6f7b4ba726d2d95",
+  "version": "20261113.1.1",
+  "tag": "v20261113.1.1",
+  "artifactDirectory": "release",
+  "artifactContainerPath": "server/release/artifact-container-20261113.1.1.json",
+  "manifestPath": "server/release/scc-release-manifest.json",
+  "handoffAttemptId": "release-bundle-20261113.1.1",
   "files": {
     "installer": {
-      "name": "Groundhog-20261112.1.2-win-x64.exe",
-      "size": 122030373,
-      "sha256": "9a728d611e762841d7d0c6675bc0a4676f760e0414effec2733842fdbb52619f",
-      "sha512": "297ibVXd3ezZdO7s1NUHKxEV2Iwbs8mDoK7sYC9Tlroy92j3K6IAOEdCr9c0hKRqnijFpHzbkr367g0HzFhhvw=="
+      "name": "Groundhog-20261113.1.1-win-x64.exe",
+      "size": 122030224,
+      "sha256": "6a5e83d3f49e1a96bd0e1f545941c4b43af48f1bb05ec396264b36b20d92f9ab",
+      "sha512": "x+HcDiGSZNMIZ/8Q+KWXIFIG/W03yBY5es2xUBfvUg5EZlkIJERm0XNVhwUARzREwRHfaLLgohWkfdDfLeqWRA==",
+      "sha512Hex": "c7e1dc0e219264d30867ff10f8a597205206fd6d37c816397acdb15017ef520e44665908244466d17355870500473444c111df68b2e0a215a47dd0df2dea9644"
     },
     "blockmap": {
-      "name": "Groundhog-20261112.1.2-win-x64.exe.blockmap",
-      "size": 129047,
-      "sha256": "64d9b4876d22602f973c7fe303d883d0c50e63676c332eacae207019e45bf15c"
+      "name": "Groundhog-20261113.1.1-win-x64.exe.blockmap",
+      "size": 129094,
+      "sha256": "8adf6e1a0e493b9d8862f3c657bb2a85bb3594dd81176037fa93277e637ad92e"
     },
     "latest": {
       "name": "latest.yml",
       "size": 372,
-      "sha256": "7f13e665790cdde6a19c3a6c571279ebf02a497853fdff5590d6fbd71a8b1900"
+      "sha256": "b5ad5811e8a09dc3d172da676e3d658cc8102adb741820c08da7c279873a8393"
     }
   }
 }
