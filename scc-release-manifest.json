@@ -5,43 +5,50 @@
   "sourceRepository": "isalsbury72/Groundhog",
   "projectLineage": {
     "publicAncestor": "b47c543127c45d5f73e67443bfd9c2dd1fe11858",
-    "publicSourceBaseBranch": "release/groundhog-20261113.1.1-clean",
-    "publicSourceBaseCommit": "0695c694ff10389d5babed4b26a875c92d58fab3",
-    "reportedImplementationCommit": "479e7f4151939b1ae35f5e7f5ab85cec84097973",
-    "cleanSourceCommit": "17c83f2b4270699b69f0e51a5a22169ae38e61fe",
-    "sourceBranch": "release/groundhog-20261113.1.2-clean"
+    "sourceBranch": "release/groundhog-20261115.1.2-clean",
+    "cleanSourceCommit": "953cc9ec49b14df12a42da3908240a53136c9535",
+    "finalBranch": "release/groundhog-20261115.1.2-clean"
   },
-  "sourceCommit": "17c83f2b4270699b69f0e51a5a22169ae38e61fe",
-  "sourceBranch": "release/groundhog-20261113.1.2-clean",
-  "artifactContainerCommit": "2870d5a15c1e82fbd1259752ff878dcd19bab053",
-  "manifestBindingCommit": "61dcee798d80854a1561b6b5e5a5ffc6b12480ef",
-  "version": "20261113.1.2",
-  "tag": "v20261113.1.2",
-  "artifactDirectory": "server/release",
-  "artifactContainerPath": "server/release/artifact-container-20261113.1.2.json",
-  "manifestPath": "server/release/scc-release-manifest.json",
-  "instructionComment": "6847190280",
-  "handoffAttemptId": "release-bundle-20261113.1.2",
+  "sourceCommit": "953cc9ec49b14df12a42da3908240a53136c9535",
+  "applicationSourceCommit": "953cc9ec49b14df12a42da3908240a53136c9535",
+  "sourceBranch": "release/groundhog-20261115.1.2-clean",
+  "artifactContainerCommit": "5be15394edcead17dd08f76d30e671920291c9c5",
+  "manifestBindingCommit": "583a2db3aa4859d395f80f6a1394983c1e4e55ff",
+  "releaseVersion": "20261115.1.2",
+  "releaseTag": "v20261115.1.2",
+  "version": "20261115.1.2",
+  "tag": "v20261115.1.2",
+  "artifactDirectory": "release",
+  "artifactContainerPath": "release/artifact-container-20261115.1.2.json",
+  "manifestPath": "release/scc-release-manifest.json",
+  "instructionComment": "6893649031",
+  "originatingInstructionId": "6893649031",
+  "handoffInstruction": "6893649031",
+  "handoffAttemptId": "release-bundle-20261115-1-2-6893649031",
+  "originatingAttemptId": "release-bundle-20261115-1-2-6893649031",
+  "workerJobId": "groundhog-release-20261115-6893649031",
   "files": {
     "installer": {
-      "path": "server/release/Groundhog-20261113.1.2-win-x64.exe",
-      "name": "Groundhog-20261113.1.2-win-x64.exe",
-      "size": 122033016,
-      "sha256": "41f2235fdf7a70d92ac42d3f3915753e839ad75f42753e6cf54b74e68a5f1c47",
-      "sha512": "tUb/p8M8VjYVRuwfUwul81mtzs3b0tpzBSoSxp1D0Zm1KlXJ1xIHkU4KtULqlV0Hp6ckazfyATbaxZESee1yjw==",
-      "sha512Hex": "b546ffa7c33c56361546ec1f530ba5f359adcecddbd2da73052a12c69d43d199b52a55c9d71207914e0ab542ea955d07a7a7246b37f20136dac5911279ed728f"
+      "path": "release/Groundhog-20261115.1.2-win-x64.exe",
+      "name": "Groundhog-20261115.1.2-win-x64.exe",
+      "size": 121998661,
+      "sha256": "0cc871f8d79efe8caa1df63c6e924c384bc5bc8fe7bcf690281015f08b4f3608",
+      "sha512": "0gk8U530SRDe7030kCxS8CEe2CPbyqHxNBctIsJ4XxqW3kwR21g2+8ThjS/5kg1MUgfmV0otjG7dxfHLS+IE4w==",
+      "sha512Hex": "d2093c539df44910deef4df4902c52f0211ed823dbcaa1f134172d22c2785f1a96de4c11db5836fbc4e18d2ff9920d4c5207e6574a2d8c6eddc5f1cb4be204e3"
     },
     "blockmap": {
-      "path": "server/release/Groundhog-20261113.1.2-win-x64.exe.blockmap",
-      "name": "Groundhog-20261113.1.2-win-x64.exe.blockmap",
-      "size": 128861,
-      "sha256": "cd4e57a1ab2c6d7a4baa6732e4273c9c6215dbd02dbb8ceafebf30e3ae973f41"
+      "path": "release/Groundhog-20261115.1.2-win-x64.exe.blockmap",
+      "name": "Groundhog-20261115.1.2-win-x64.exe.blockmap",
+      "size": 129090,
+      "sha256": "c63cd1f9e3a431a80ec47810ca514e512e53798576675aebcfe970b8b9a6a84e",
+      "sha512Hex": "3155eb19d7a78a6ac2e2543e143705b7e10011b19d896ce205baaf1f3f4a4adcf87c0b1e2813fd0657afbbe763b1d33d9c86edc824702a1c0df35dac96d79489"
     },
     "latest": {
-      "path": "server/release/latest.yml",
+      "path": "release/latest.yml",
       "name": "latest.yml",
       "size": 372,
-      "sha256": "14a9eb19a40dfa58786f5839955b85e7b9c63a0f834bb11a0c7d24bd6314083f"
+      "sha256": "bacc8545a4a18a36a63d10cd7eb30d11a8729da8e6fe97ac01830157e52ddb22",
+      "sha512Hex": "0bde4310c9927c0e54b8124ba245911baa5d09369ea0dcbdbedc481796fc65e7f1d16052da58fd561380cc6342404d17918fc562a1bded0537a4aee4ac0e40a3"
     }
   }
 }
